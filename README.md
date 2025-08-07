@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [J Sports Engine](https://github.com/Jayjay40222/J_SportsEngine)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Cyber security**
 
-- 👯 I’m looking to collaborate on **Game engine projects**
+- 👯 I’m looking to collaborate on **Game engine projects or cyber security projects**
 
-- ⚡ Fun fact **I am 14**
+- ⚡ Fun fact **I am 15**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
