@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yafet Seyoum</h1>
-<h3 align="center">A passionate low-level developer from Ethiopia</h3>
+<h3 align="center">A passionate developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjay40222&label=Profile%20views&color=0e75b6&style=flat" alt="jayjay40222" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjay40222" alt="jayjay40222" /></a> </p>
 
-- 🔭 I’m currently working on [J Sports Engine](https://github.com/Jayjay40222/J_SportsEngine)
+- 🔭 I’m currently working on [Windows hygiene auditor](https://github.com/natihackingsss/Group_38)
 
 - 🌱 I’m currently learning **Cyber security**
 
-- 👯 I’m looking to collaborate on **Game engine projects or cyber security projects**
-
-- ⚡ Fun fact **I am 15**
+- 👯 I’m looking to collaborate on **Game development projects or cyber security projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
